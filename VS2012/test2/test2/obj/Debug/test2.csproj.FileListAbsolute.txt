@@ -1,0 +1,9 @@
+C:\Users\Владимир\Desktop\VS2012\test2\test2\bin\Debug\test2.exe.config
+C:\Users\Владимир\Desktop\VS2012\test2\test2\bin\Debug\test2.exe
+C:\Users\Владимир\Desktop\VS2012\test2\test2\bin\Debug\test2.pdb
+C:\Users\Владимир\Desktop\VS2012\test2\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\VS2012\test2\test2\obj\Debug\test2.Form1.resources
+C:\Users\Владимир\Desktop\VS2012\test2\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\Владимир\Desktop\VS2012\test2\test2\obj\Debug\test2.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\VS2012\test2\test2\obj\Debug\test2.exe
+C:\Users\Владимир\Desktop\VS2012\test2\test2\obj\Debug\test2.pdb

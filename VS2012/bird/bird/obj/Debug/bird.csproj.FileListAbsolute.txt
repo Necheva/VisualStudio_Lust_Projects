@@ -1,0 +1,9 @@
+C:\Users\Владимир\Desktop\VS2012\bird\bird\bin\Debug\bird.exe.config
+C:\Users\Владимир\Desktop\VS2012\bird\bird\bin\Debug\bird.exe
+C:\Users\Владимир\Desktop\VS2012\bird\bird\bin\Debug\bird.pdb
+C:\Users\Владимир\Desktop\VS2012\bird\bird\obj\Debug\bird.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\VS2012\bird\bird\obj\Debug\bird.Form1.resources
+C:\Users\Владимир\Desktop\VS2012\bird\bird\obj\Debug\bird.Properties.Resources.resources
+C:\Users\Владимир\Desktop\VS2012\bird\bird\obj\Debug\bird.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\VS2012\bird\bird\obj\Debug\bird.exe
+C:\Users\Владимир\Desktop\VS2012\bird\bird\obj\Debug\bird.pdb

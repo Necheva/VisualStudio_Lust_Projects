@@ -1,0 +1,23 @@
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\bin\Debug\resources.pri
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\bin\Debug\AppxManifest.xml
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\bin\Debug\Save the Humans.build.appxrecipe
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\App.g.i.cs
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\App.g.cs
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\MainPage.g.i.cs
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\MainPage.g.cs
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\App.xaml
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\MainPage.xaml
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\Save the Humans.exe
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\Save the Humans.pdb
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\priconfig.xml
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\layout.resfiles
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\resources.resfiles
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\pri.resfiles
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\LanguageQualifiers.txt
+C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\obj\Debug\ProjectArchitectures.txt

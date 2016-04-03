@@ -1,0 +1,9 @@
+C:\Users\Владимир\Desktop\VS2012\osmols2\osmols2\bin\Debug\osmols2.exe.config
+C:\Users\Владимир\Desktop\VS2012\osmols2\osmols2\bin\Debug\osmols2.exe
+C:\Users\Владимир\Desktop\VS2012\osmols2\osmols2\bin\Debug\osmols2.pdb
+C:\Users\Владимир\Desktop\VS2012\osmols2\osmols2\obj\Debug\osmols2.Form1.resources
+C:\Users\Владимир\Desktop\VS2012\osmols2\osmols2\obj\Debug\osmols2.Properties.Resources.resources
+C:\Users\Владимир\Desktop\VS2012\osmols2\osmols2\obj\Debug\osmols2.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\VS2012\osmols2\osmols2\obj\Debug\osmols2.exe
+C:\Users\Владимир\Desktop\VS2012\osmols2\osmols2\obj\Debug\osmols2.pdb
+C:\Users\Владимир\Desktop\VS2012\osmols2\osmols2\obj\Debug\osmols2.csprojResolveAssemblyReference.cache

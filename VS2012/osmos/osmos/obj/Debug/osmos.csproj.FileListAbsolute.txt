@@ -1,0 +1,9 @@
+C:\Users\Владимир\Desktop\VS2012\osmos\osmos\bin\Debug\osmos.exe.config
+C:\Users\Владимир\Desktop\VS2012\osmos\osmos\bin\Debug\osmos.exe
+C:\Users\Владимир\Desktop\VS2012\osmos\osmos\bin\Debug\osmos.pdb
+C:\Users\Владимир\Desktop\VS2012\osmos\osmos\obj\Debug\osmos.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\VS2012\osmos\osmos\obj\Debug\osmos.Form1.resources
+C:\Users\Владимир\Desktop\VS2012\osmos\osmos\obj\Debug\osmos.Properties.Resources.resources
+C:\Users\Владимир\Desktop\VS2012\osmos\osmos\obj\Debug\osmos.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\VS2012\osmos\osmos\obj\Debug\osmos.exe
+C:\Users\Владимир\Desktop\VS2012\osmos\osmos\obj\Debug\osmos.pdb

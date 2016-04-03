@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DELL</Machine>
+    <WindowsUser>Владимир</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>159D12A7B4B13238605F2CCC61BE38AB8599175D4FBC8AA635DCC1DEF229BD96</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e445315b-d602-46e8-8800-4beb0e6ef370_1.0.0.0_neutral__kp0jtj8mhfkhe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e445315b-d602-46e8-8800-4beb0e6ef370_kp0jtj8mhfkhe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e445315b-d602-46e8-8800-4beb0e6ef370</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Владимир</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-25T11:31:48.352</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\bin\Debug\Save the Humans.exe">
+      <PackagePath>Save the Humans.exe</PackagePath>
+      <Modified>2015-07-25T11:31:47.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\bin\Debug\Save the Humans.pdb">
+      <PackagePath>Save the Humans.pdb</PackagePath>
+      <Modified>2015-07-25T11:31:47.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2015-07-11T19:16:06.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2015-07-11T19:13:24.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2015-07-16T00:15:41.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-26T17:24:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\Save the Humans\Save the Humans\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-11T21:30:18.427</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

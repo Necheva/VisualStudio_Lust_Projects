@@ -1,0 +1,9 @@
+C:\Users\Владимир\Desktop\VS2012\StarTrack\StarTrack\bin\Debug\StarTrack.exe.config
+C:\Users\Владимир\Desktop\VS2012\StarTrack\StarTrack\bin\Debug\StarTrack.exe
+C:\Users\Владимир\Desktop\VS2012\StarTrack\StarTrack\bin\Debug\StarTrack.pdb
+C:\Users\Владимир\Desktop\VS2012\StarTrack\StarTrack\obj\Debug\StarTrack.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\VS2012\StarTrack\StarTrack\obj\Debug\StarTrack.Form1.resources
+C:\Users\Владимир\Desktop\VS2012\StarTrack\StarTrack\obj\Debug\StarTrack.Properties.Resources.resources
+C:\Users\Владимир\Desktop\VS2012\StarTrack\StarTrack\obj\Debug\StarTrack.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\VS2012\StarTrack\StarTrack\obj\Debug\StarTrack.exe
+C:\Users\Владимир\Desktop\VS2012\StarTrack\StarTrack\obj\Debug\StarTrack.pdb

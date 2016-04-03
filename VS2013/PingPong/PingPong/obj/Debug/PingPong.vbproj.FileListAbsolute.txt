@@ -1,0 +1,10 @@
+C:\Users\Владимир\Desktop\VS2013\PingPong\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\Владимир\Desktop\VS2013\PingPong\PingPong\bin\Debug\PingPong.exe
+C:\Users\Владимир\Desktop\VS2013\PingPong\PingPong\bin\Debug\PingPong.pdb
+C:\Users\Владимир\Desktop\VS2013\PingPong\PingPong\bin\Debug\PingPong.xml
+C:\Users\Владимир\Desktop\VS2013\PingPong\PingPong\obj\Debug\PingPong.Form1.resources
+C:\Users\Владимир\Desktop\VS2013\PingPong\PingPong\obj\Debug\PingPong.Resources.resources
+C:\Users\Владимир\Desktop\VS2013\PingPong\PingPong\obj\Debug\PingPong.vbproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\VS2013\PingPong\PingPong\obj\Debug\PingPong.exe
+C:\Users\Владимир\Desktop\VS2013\PingPong\PingPong\obj\Debug\PingPong.xml
+C:\Users\Владимир\Desktop\VS2013\PingPong\PingPong\obj\Debug\PingPong.pdb

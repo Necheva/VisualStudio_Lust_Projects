@@ -1,0 +1,4 @@
+C:\Users\Владимир\Desktop\VS2013\star\star\bin\Debug\star.exe.config
+C:\Users\Владимир\Desktop\VS2013\star\star\obj\Debug\star.star__1.Form1.resources
+C:\Users\Владимир\Desktop\VS2013\star\star\obj\Debug\star.Resources.resources
+C:\Users\Владимир\Desktop\VS2013\star\star\obj\Debug\star.vbproj.GenerateResource.Cache

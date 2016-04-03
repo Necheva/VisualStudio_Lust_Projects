@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DELL</Machine>
+    <WindowsUser>Владимир</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>8B6FFA3048CA62893336C258E586F4ED5697ED454EAF607A041C991677C434E1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>16abff28-e120-4621-8d46-217fb7462a15_1.0.0.0_neutral__kp0jtj8mhfkhe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>16abff28-e120-4621-8d46-217fb7462a15_kp0jtj8mhfkhe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>16abff28-e120-4621-8d46-217fb7462a15</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Владимир</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Владимир\Desktop\VS 2012 c#\osmos\osmos\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-24T13:27:09.087</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\osmos\osmos\bin\Debug\osmos.exe">
+      <PackagePath>osmos.exe</PackagePath>
+      <Modified>2015-08-24T13:27:08.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\osmos\osmos\bin\Debug\osmos.pdb">
+      <PackagePath>osmos.pdb</PackagePath>
+      <Modified>2015-08-24T13:27:08.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\osmos\osmos\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\osmos\osmos\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\osmos\osmos\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\osmos\osmos\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\osmos\osmos\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2015-08-24T13:26:26.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\osmos\osmos\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-26T17:24:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\osmos\osmos\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2015-08-24T13:26:26.354</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\osmos\osmos\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-24T13:27:08.729</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

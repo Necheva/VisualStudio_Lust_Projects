@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DELL</Machine>
+    <WindowsUser>Владимир</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>5BD6703329075C04FD5685F06513C0B4F18301431338A239B60B9E5E7F9B153F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>31dadcee-84b5-4e64-8833-c5987a40c2a6_1.0.0.0_neutral__kp0jtj8mhfkhe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>31dadcee-84b5-4e64-8833-c5987a40c2a6_kp0jtj8mhfkhe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>31dadcee-84b5-4e64-8833-c5987a40c2a6</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Владимир</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Владимир\Desktop\VS 2012 c#\IfElse\IfElse\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-21T13:50:01.437</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\IfElse\IfElse\bin\Debug\IfElse.exe">
+      <PackagePath>IfElse.exe</PackagePath>
+      <Modified>2015-07-21T13:56:10.267</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\IfElse\IfElse\bin\Debug\IfElse.pdb">
+      <PackagePath>IfElse.pdb</PackagePath>
+      <Modified>2015-07-21T13:56:10.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\IfElse\IfElse\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\IfElse\IfElse\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\IfElse\IfElse\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\IfElse\IfElse\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\IfElse\IfElse\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2015-07-21T13:33:49.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\IfElse\IfElse\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-26T17:24:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\IfElse\IfElse\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2015-07-21T13:48:23.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\IfElse\IfElse\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-21T13:50:01.227</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\Владимир\Desktop\VS2012 desktop\calc\calc\bin\Debug\calc.exe.config
+C:\Users\Владимир\Desktop\VS2012 desktop\calc\calc\bin\Debug\calc.exe
+C:\Users\Владимир\Desktop\VS2012 desktop\calc\calc\bin\Debug\calc.pdb
+C:\Users\Владимир\Desktop\VS2012 desktop\calc\calc\obj\Debug\calc.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\VS2012 desktop\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\Владимир\Desktop\VS2012 desktop\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\Владимир\Desktop\VS2012 desktop\calc\calc\obj\Debug\calc.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\VS2012 desktop\calc\calc\obj\Debug\calc.exe
+C:\Users\Владимир\Desktop\VS2012 desktop\calc\calc\obj\Debug\calc.pdb

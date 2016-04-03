@@ -1,0 +1,5 @@
+﻿  TBitField.cpp
+  Main.cpp
+  Создание кода...
+c:\users\й\desktop\visualstudio прошлый комп\vs2013\tbitfield\tbitfield\main.cpp(162): warning C4700: использована неинициализированная локальная переменная "n"
+  TBitField.vcxproj -> C:\Users\й\Desktop\VisualStudio прошлый комп\VS2013\TBitField\Debug\TBitField.exe

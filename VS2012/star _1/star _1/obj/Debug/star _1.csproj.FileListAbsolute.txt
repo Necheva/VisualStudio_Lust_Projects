@@ -1,0 +1,9 @@
+C:\Users\Владимир\Desktop\VS2012\star _1\star _1\bin\Debug\star _1.exe.config
+C:\Users\Владимир\Desktop\VS2012\star _1\star _1\bin\Debug\star _1.exe
+C:\Users\Владимир\Desktop\VS2012\star _1\star _1\bin\Debug\star _1.pdb
+C:\Users\Владимир\Desktop\VS2012\star _1\star _1\obj\Debug\star__1.Form1.resources
+C:\Users\Владимир\Desktop\VS2012\star _1\star _1\obj\Debug\star__1.Properties.Resources.resources
+C:\Users\Владимир\Desktop\VS2012\star _1\star _1\obj\Debug\star _1.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\VS2012\star _1\star _1\obj\Debug\star _1.exe
+C:\Users\Владимир\Desktop\VS2012\star _1\star _1\obj\Debug\star _1.pdb
+C:\Users\Владимир\Desktop\VS2012\star _1\star _1\obj\Debug\star _1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,88 @@
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using Windows.Foundation;
+using Windows.Foundation.Collections;
+using Windows.UI.Xaml;
+using Windows.UI.Xaml.Controls;
+using Windows.UI.Xaml.Controls.Primitives;
+using Windows.UI.Xaml.Data;
+using Windows.UI.Xaml.Input;
+using Windows.UI.Xaml.Media;
+using Windows.UI.Xaml.Navigation;
+
+// Шаблон элемента пустой страницы задокументирован по адресу http://go.microsoft.com/fwlink/?LinkId=234238
+
+namespace App4
+{
+    /// <summary>
+    /// Пустая страница, которую можно использовать саму по себе или для перехода внутри фрейма.
+    /// </summary>
+    public sealed partial class MainPage : Page
+    {
+        public MainPage()
+        {
+            this.InitializeComponent();
+        }
+
+        /// <summary>
+        /// Вызывается перед отображением этой страницы во фрейме.
+        /// </summary>
+        /// <param name="e">Данные о событиях, описывающие, каким образом была достигнута эта страница.  Свойство Parameter
+        /// обычно используется для настройки страницы.</param>
+        protected override void OnNavigatedTo(NavigationEventArgs e)
+        {
+        }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            string name = "Vladimir";
+            int x = 3;
+            x = x * 17;
+            double d = Math.PI / 2;
+            myLabel.Text = "name is " + name
+                + "\nx is" + x
+                + "\nd is" + d;
+        }
+
+        private void button2_Click(object sender, RoutedEventArgs e)
+        {
+            int someValue = 4;
+            string name = "Bobbo Jr.";
+            if ((someValue == 3) && (name == "Joe"))
+            {
+                myLabel.Text = "x is 3 and the name is Joe";
+            }
+            myLabel.Text = "this line runs no matter what";
+        }
+
+        private void button3_Click(object sender, RoutedEventArgs e)
+        {
+            int x = 5;
+            if (x == 10)
+            {
+                myLabel.Text = "x must be 10";
+            }
+            else
+            {
+                myLabel.Text = "x is not 10";
+            }
+        }
+
+        private void button4_Click(object sender, RoutedEventArgs e)
+        {
+            int count = 0;
+            while (count < 10)
+            {
+                count = count + 1;
+            }
+            resulT.Text = "count = " + count;
+            for (int i = 0; i < 5; i++)
+            {
+                count = count - 1;
+            }
+            myLabel.Text = "The answer is " + count;
+        }
+    }
+}

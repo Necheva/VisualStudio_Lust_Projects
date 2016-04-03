@@ -1,0 +1,9 @@
+C:\Users\Владимир\Desktop\VS2012\XO\XO\bin\Debug\XO.exe.config
+C:\Users\Владимир\Desktop\VS2012\XO\XO\bin\Debug\XO.exe
+C:\Users\Владимир\Desktop\VS2012\XO\XO\bin\Debug\XO.pdb
+C:\Users\Владимир\Desktop\VS2012\XO\XO\obj\Debug\XO.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\VS2012\XO\XO\obj\Debug\XO.Form1.resources
+C:\Users\Владимир\Desktop\VS2012\XO\XO\obj\Debug\XO.Properties.Resources.resources
+C:\Users\Владимир\Desktop\VS2012\XO\XO\obj\Debug\XO.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\VS2012\XO\XO\obj\Debug\XO.exe
+C:\Users\Владимир\Desktop\VS2012\XO\XO\obj\Debug\XO.pdb

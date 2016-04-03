@@ -1,0 +1,23 @@
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\bin\Debug\PingPong new.exe
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\bin\Debug\PingPong new.pdb
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\bin\Debug\resources.pri
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\bin\Debug\AppxManifest.xml
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\bin\Debug\PingPong new.build.appxrecipe
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\App.g.i.cs
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\App.g.cs
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\MainPage.g.i.cs
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\MainPage.g.cs
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\App.xaml
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\MainPage.xaml
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\PingPong new.exe
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\PingPong new.pdb
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\priconfig.xml
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\layout.resfiles
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\resources.resfiles
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\pri.resfiles
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\LanguageQualifiers.txt
+C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DELL</Machine>
+    <WindowsUser>Владимир</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>682EC392329C62AA1867A56B463711519D7B3C9047F56D47CAB2A95C85676AF7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a5f2e7e4-bf66-4e0f-8086-1d0d34a0da8a_1.0.0.0_neutral__kp0jtj8mhfkhe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a5f2e7e4-bf66-4e0f-8086-1d0d34a0da8a_kp0jtj8mhfkhe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a5f2e7e4-bf66-4e0f-8086-1d0d34a0da8a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Владимир</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-16T08:41:51.846</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\bin\Debug\PingPong new.exe">
+      <PackagePath>PingPong new.exe</PackagePath>
+      <Modified>2015-08-16T13:12:01.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\bin\Debug\PingPong new.pdb">
+      <PackagePath>PingPong new.pdb</PackagePath>
+      <Modified>2015-08-16T13:12:01.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T20:29:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2015-08-16T08:41:18.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2015-08-16T08:40:36.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2015-08-16T13:11:58.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-26T17:24:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Владимир\Desktop\VS 2012 c#\PingPong new\PingPong new\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-16T08:41:51.370</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

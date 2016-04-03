@@ -1,0 +1,9 @@
+C:\Users\Владимир\Desktop\VS2012\activ\activ\bin\Debug\activ.exe.config
+C:\Users\Владимир\Desktop\VS2012\activ\activ\bin\Debug\activ.exe
+C:\Users\Владимир\Desktop\VS2012\activ\activ\bin\Debug\activ.pdb
+C:\Users\Владимир\Desktop\VS2012\activ\activ\obj\Debug\activ.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\VS2012\activ\activ\obj\Debug\activ.Properties.Resources.resources
+C:\Users\Владимир\Desktop\VS2012\activ\activ\obj\Debug\activ.csproj.GenerateResource.Cache
+C:\Users\Владимир\Desktop\VS2012\activ\activ\obj\Debug\activ.exe
+C:\Users\Владимир\Desktop\VS2012\activ\activ\obj\Debug\activ.pdb
+C:\Users\Владимир\Desktop\VS2012\activ\activ\obj\Debug\activ.Form1.resources

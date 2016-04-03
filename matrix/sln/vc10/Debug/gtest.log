@@ -1,0 +1,10 @@
+﻿Сборка начата 02.12.2015 18:52:04.
+     1>Проект "C:\Users\Владимир\Desktop\matrix\sln\vc10\gtest.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (sample_utmatrix.vcxproj, test_utmatrix.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Lib:
+         gtest.vcxproj -> C:\Users\Владимир\Desktop\matrix\sln\vc10\Debug\gtest.lib
+     1>Сборка проекта "C:\Users\Владимир\Desktop\matrix\sln\vc10\gtest.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.75

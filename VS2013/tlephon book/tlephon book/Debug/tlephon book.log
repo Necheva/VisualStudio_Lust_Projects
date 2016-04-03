@@ -1,0 +1,26 @@
+﻿Build started 20.07.2015 23:00:35.
+     1>Project "C:\Users\Владимир\Desktop\VS2013\tlephon book\tlephon book\tlephon book.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\владимир\desktop\vs2013\tlephon book\tlephon book\main.c(16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\владимир\desktop\vs2013\tlephon book\tlephon book\main.c(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\владимир\desktop\vs2013\tlephon book\tlephon book\main.c(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\владимир\desktop\vs2013\tlephon book\tlephon book\main.c(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\владимир\desktop\vs2013\tlephon book\tlephon book\main.c(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\владимир\desktop\vs2013\tlephon book\tlephon book\main.c(48): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>c:\users\владимир\desktop\vs2013\tlephon book\tlephon book\main.c(19): warning C4101: 'mark' : unreferenced local variable
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Владимир\Desktop\VS2013\tlephon book\Debug\tlephon book.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Владимир\Desktop\VS2013\tlephon book\Debug\tlephon book.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Владимир\Desktop\VS2013\tlephon book\Debug\tlephon book.lib" /MACHINE:X86 Debug\main.obj
+         tlephon book.vcxproj -> C:\Users\Владимир\Desktop\VS2013\tlephon book\Debug\tlephon book.exe
+     1>Done Building Project "C:\Users\Владимир\Desktop\VS2013\tlephon book\tlephon book\tlephon book.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.66
